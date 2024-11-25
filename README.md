@@ -1,0 +1,2 @@
+# PlaygroundTestNov2024
+ TechnicalSwiftTestNov24
